@@ -1,8 +1,6 @@
-(https://scontent.frjh4-1.fna.fbcdn.net/v/t39.30808-1/597870756_1518610329369656_732370079880873614_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=103&ccb=1-7&_nc_sid=e99d92&_nc_eui2=AeFShR787nbEYL0CK475DfvWM_ycIV1iJ1oz_JwhXWInWm0nGLgtovKB4-EyMCXpfjT5siH99DPosQIzSdHVlxn-&_nc_ohc=U-qU5kjzVpgQ7kNvwHCkQ5Q&_nc_oc=Adquv6yh4z0XDiDoynL7dEIlFOg9sCWHgH5DvnhIfGvf3K_77X-FZSuQ-3l0Hu2_2GQ&_nc_zt=24&_nc_ht=scontent.frjh4-1.fna&_nc_gid=YABEz3reMHmDtWOP_7tmZA&_nc_ss=7b2a8&oh=00_Af6IKV4W54QQfA-s491G6B8fHBBpLfERSXKJqEQ65k1htQ&oe=6A04B0A2)
-
 ### Hi there 👋, I am Prithwiraj
 #### Programmer. AI/ML Learner
-![Programmer. AI/ML Learner]
+![Programmer. AI/ML Learner](https://scontent.frjh4-1.fna.fbcdn.net/v/t39.30808-1/597870756_1518610329369656_732370079880873614_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=103&ccb=1-7&_nc_sid=e99d92&_nc_eui2=AeFShR787nbEYL0CK475DfvWM_ycIV1iJ1oz_JwhXWInWm0nGLgtovKB4-EyMCXpfjT5siH99DPosQIzSdHVlxn-&_nc_ohc=U-qU5kjzVpgQ7kNvwHCkQ5Q&_nc_oc=Adquv6yh4z0XDiDoynL7dEIlFOg9sCWHgH5DvnhIfGvf3K_77X-FZSuQ-3l0Hu2_2GQ&_nc_zt=24&_nc_ht=scontent.frjh4-1.fna&_nc_gid=YABEz3reMHmDtWOP_7tmZA&_nc_ss=7b2a8&oh=00_Af6IKV4W54QQfA-s491G6B8fHBBpLfERSXKJqEQ65k1htQ&oe=6A04B0A2)
 
 🎓 Passionate CSE student from Patuakhali Science and Technology University
 🤖 Interested in Machine Learning, AI & Problem Solving
