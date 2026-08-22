@@ -7,7 +7,7 @@
 💻 Working hard to grow in the tech world
  Dreaming to carry Bangladesh to the global stage 🚀
 
-Skills: JAVA,C,C++,HTML
+Skills: JAVA,C,C++,HTML,PYTHON
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Data Structure and Algorithms 
