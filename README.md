@@ -73,23 +73,23 @@ Beginner-level programmer focused on learning coding fundamentals and problem so
 
 <h2 align="center">🤝 Connect With ME</h2>
 <p align="center">
-<a href="https://www.facebook.com/almikat.ahmed" target="_blank">
+<a href="https://www.facebook.com/prithwiaj.das" target="_blank">
   <img src="https://img.icons8.com/color/50/facebook-new.png" width="50"/>
 </a>
 
-<a href="https://www.linkedin.com/in/khondoker-almikat/" target="_blank">
+<a href="https://www.linkedin.com/in/rup-das-43a666381/" target="_blank">
   <img src="https://img.icons8.com/color/50/linkedin.png" width="50"/>
 </a>
 
-<a href="https://github.com/kh-almikat" target="_blank">
+<a href="https://github.com/Prithwiraj1258" target="_blank">
   <img src="https://img.icons8.com/ios-filled/50/000000/github.png" width="50"/>
 </a>
 
-<a href="https://codeforces.com/profile/almikat_ahmed" target="_blank">
+<a href="https://codeforces.com/profile/prithwiraj131" target="_blank">
   <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/50/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png" width="50"/>
 </a>
 
-<a href="https://www.instagram.com/almikat.ahmed" target="_blank">
+<a href="https://www.instagram.com/prithwi._.raj20/?__pwa=1" target="_blank">
   <img src="https://img.icons8.com/color/50/instagram-new.png" width="50"/>
 </a>
 </p>
