@@ -75,7 +75,7 @@ Beginner-level programmer focused on learning coding fundamentals and problem so
 <h2 align="center">🤝 Connect With ME</h2>
 <p align="center">
 <a href="https://www.facebook.com/prithwiaj.das" target="_blank">
-  <img src="https://img.icons8.com/color/50/facebook-new.png" width="50"/>
+
 </a>
 
 <a href="https://www.linkedin.com/in/rup-das-43a666381/" target="_blank">
