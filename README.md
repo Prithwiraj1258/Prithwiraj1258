@@ -99,9 +99,6 @@ Beginner-level programmer focused on learning coding fundamentals and problem so
 
 
 
-<h2 align="center">
-  <img src="https://komarev.com/ghpvc/?username=kh-almikat&label=Profile%20views&color=0e75b6&style=flat" alt="kh-almikat" /> </p>
-</h2>
 
 
 
