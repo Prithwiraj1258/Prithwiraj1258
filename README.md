@@ -89,7 +89,9 @@ Beginner-level programmer focused on learning coding fundamentals and problem so
 <a href="https://codeforces.com/profile/prithwiraj131" target="_blank">
   <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/50/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png" width="50"/>
 </a>
-
+<a href="https://www.codechef.com/users/rup_131544">
+<img src="https://cdn.codechef.com/images/cc-logo.svg" width="50" alt="CodeChef Logo"/>
+</a>
 <a href="https://www.instagram.com/prithwi._.raj20/?__pwa=1" target="_blank">
   <img src="https://img.icons8.com/color/50/instagram-new.png" width="50"/>
 </a>
